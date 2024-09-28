@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MyToDo</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_task">Tasks</string>
+    <string name="menu_reminder">Reminders</string>
+    <string name="menu_events">Events</string>
+    <string name="menu_notes">Notes</string>
+    <string name="about_us"><font color="@color/black">About Us</font></string>
+
+    <string name="reminder">Reminder</string>
+    <string name="events">Events</string>
+    <string name="task">Task</string>
+    <string name="notes">Notes</string>
+    <string name="about_todo">Our to-do list app is designed to help you stay organized and manage your tasks efficiently. With features like task creation, editing, reminders, and prioritization, our goal is to simplify your daily planning and boost your productivity. Whether for work, school, or personal projects, our app is your companion for keeping track of everything important.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">Username</string>
+    <string name="example_gmail_com">example@gmail.com</string>
+    <string name="productivity_tips">5 Steps To Productivity</string>
+    <string name="productivity1">1. Define a culture of productivity.</string>
+    <string name="productivity2">2. Strive for measurable successes.</string>
+    <string name="productivity3">3. Reform business practices, if necessary.</string>
+    <string name="productivity4">4. Employ self-motivation.</string>
+    <string name="productivity5">5. Get feedback from all stakeholders.</string>
+    <string name="mytodo">MyToDo</string>
+    <string name="your_personal_productive_app">Your Personal Productive App</string>
+
+</resources>
