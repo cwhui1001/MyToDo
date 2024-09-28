@@ -1,3 +1,3 @@
 MyToDo
 
-Your Personal Productive App
+Your Personal Note Taking App
