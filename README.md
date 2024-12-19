@@ -11,7 +11,6 @@
 
 - **Frontend**: XML layouts for Android UI design.
 - **Backend**: Java (Android Studio).
-- **Database**: SQLite for local data storage.
 
 ## Installation
 
