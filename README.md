@@ -16,7 +16,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/MyToDo.git
+   git clone https://github.com/cwhui1001/MyToDo.git
    ```
 2. Open the project in Android Studio.
 3. Sync the Gradle files and build the project.
