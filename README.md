@@ -1,6 +1,6 @@
 # MyToDo
-Your Personal Note Taking App
-The MyToDo App is a simple and efficient task management application that helps users organize and track their daily tasks, reminders, and priorities.
+**Your Personal Note Taking App**
+<p>The MyToDo App is a simple and efficient task management application that helps users organize and track their daily tasks, reminders, and priorities.</p>
 
 ## Features
 
